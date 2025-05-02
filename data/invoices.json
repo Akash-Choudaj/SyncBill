@@ -1,0 +1,113 @@
+{
+  "invoices": [
+    {
+      "id": "INV001",
+      "customer": "Tech Solutions Ltd",
+      "items": [
+        {
+          "id": "1",
+          "name": "Smartphone X1",
+          "quantity": 5,
+          "price": 12999
+        },
+        {
+          "id": "3",
+          "name": "Wireless Earbuds",
+          "quantity": 10,
+          "price": 2499
+        }
+      ],
+      "total": 89990,
+      "status": "paid",
+      "date": "2023-04-15",
+      "dueDate": "2023-05-15",
+      "notes": "Corporate order for new office"
+    },
+    {
+      "id": "INV002",
+      "customer": "Global Innovations",
+      "items": [
+        {
+          "id": "2",
+          "name": "Laptop Pro",
+          "quantity": 2,
+          "price": 58999
+        }
+      ],
+      "total": 117998,
+      "status": "pending",
+      "date": "2023-04-18",
+      "dueDate": "2023-05-18",
+      "notes": "Expedited shipping requested"
+    },
+    {
+      "id": "INV003",
+      "customer": "Nexus Systems",
+      "items": [
+        {
+          "id": "4",
+          "name": "Smart Watch",
+          "quantity": 8,
+          "price": 8999
+        },
+        {
+          "id": "5",
+          "name": "Bluetooth Speaker",
+          "quantity": 5,
+          "price": 3499
+        }
+      ],
+      "total": 89487,
+      "status": "paid",
+      "date": "2023-04-20",
+      "dueDate": "2023-05-20",
+      "notes": "Employee rewards program"
+    },
+    {
+      "id": "INV004",
+      "customer": "Quantum Enterprises",
+      "items": [
+        {
+          "id": "2",
+          "name": "Laptop Pro",
+          "quantity": 3,
+          "price": 58999
+        },
+        {
+          "id": "3",
+          "name": "Wireless Earbuds",
+          "quantity": 15,
+          "price": 2499
+        }
+      ],
+      "total": 214482,
+      "status": "paid",
+      "date": "2023-04-22",
+      "dueDate": "2023-05-22",
+      "notes": "Annual equipment refresh"
+    },
+    {
+      "id": "INV005",
+      "customer": "Pinnacle Corp",
+      "items": [
+        {
+          "id": "1",
+          "name": "Smartphone X1",
+          "quantity": 10,
+          "price": 12999
+        },
+        {
+          "id": "4",
+          "name": "Smart Watch",
+          "quantity": 10,
+          "price": 8999
+        }
+      ],
+      "total": 219980,
+      "status": "pending",
+      "date": "2023-04-25",
+      "dueDate": "2023-05-25",
+      "notes": "New employee onboarding package"
+    }
+  ]
+}

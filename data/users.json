@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Rajesh Kumar",
+      "email": "rajesh.kumar@example.com",
+      "password": "$2a$10$XQHXVYgI5XOFhe7.WujyXOUmTqQ0xLe/XcTLHdeRZM7U9s.4X0K/2",
+      "companyName": "Tech Solutions India",
+      "phoneNumber": "+91 9876543210",
+      "avatar": "https://randomuser.me/api/portraits/men/42.jpg",
+      "createdAt": "2023-01-15T10:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "password": "$2a$10$XQHXVYgI5XOFhe7.WujyXOUmTqQ0xLe/XcTLHdeRZM7U9s.4X0K/2",
+      "companyName": "Digital Innovations",
+      "phoneNumber": "+91 8765432109",
+      "avatar": "https://randomuser.me/api/portraits/women/42.jpg",
+      "createdAt": "2023-02-20T14:45:00.000Z"
+    }
+  ]
+}

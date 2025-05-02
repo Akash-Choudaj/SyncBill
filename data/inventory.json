@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Smartphone X1",
+      "category": "Electronics",
+      "description": "Latest flagship smartphone with 6.7-inch display and 108MP camera",
+      "quantity": 45,
+      "price": 12999,
+      "lowStockThreshold": 10,
+      "supplier": "TechWorld Distributors",
+      "lastUpdated": "2023-04-10"
+    },
+    {
+      "id": "2",
+      "name": "Laptop Pro",
+      "category": "Electronics",
+      "description": "High-performance laptop with 16GB RAM and 512GB SSD",
+      "quantity": 28,
+      "price": 58999,
+      "lowStockThreshold": 5,
+      "supplier": "ComputeX Solutions",
+      "lastUpdated": "2023-04-12"
+    },
+    {
+      "id": "3",
+      "name": "Wireless Earbuds",
+      "category": "Electronics",
+      "description": "True wireless earbuds with active noise cancellation",
+      "quantity": 120,
+      "price": 2499,
+      "lowStockThreshold": 20,
+      "supplier": "AudioTech India",
+      "lastUpdated": "2023-04-05"
+    },
+    {
+      "id": "4",
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "description": "Fitness tracker with heart rate monitor and GPS",
+      "quantity": 8,
+      "price": 8999,
+      "lowStockThreshold": 10,
+      "supplier": "WearableTech Ltd",
+      "lastUpdated": "2023-04-08"
+    },
+    {
+      "id": "5",
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "description": "Portable waterproof speaker with 20-hour battery life",
+      "quantity": 35,
+      "price": 3499,
+      "lowStockThreshold": 15,
+      "supplier": "SoundWave Electronics",
+      "lastUpdated": "2023-04-15"
+    },
+    {
+      "id": "6",
+      "name": "Men's Formal Shirt",
+      "category": "Clothing",
+      "description": "100% cotton formal shirt for men",
+      "quantity": 85,
+      "price": 1299,
+      "lowStockThreshold": 20,
+      "supplier": "FashionHub Distributors",
+      "lastUpdated": "2023-04-02"
+    },
+    {
+      "id": "7",
+      "name": "Women's Casual Dress",
+      "category": "Clothing",
+      "description": "Casual summer dress with floral pattern",
+      "quantity": 62,
+      "price": 1899,
+      "lowStockThreshold": 15,
+      "supplier": "TrendyWear India",
+      "lastUpdated": "2023-04-07"
+    },
+    {
+      "id": "8",
+      "name": "Organic Green Tea",
+      "category": "Food",
+      "description": "Premium organic green tea from Darjeeling",
+      "quantity": 150,
+      "price": 299,
+      "lowStockThreshold": 30,
+      "supplier": "Organic Farms Co.",
+      "lastUpdated": "2023-04-11"
+    },
+    {
+      "id": "9",
+      "name": "Stainless Steel Water Bottle",
+      "category": "Home",
+      "description": "Insulated water bottle that keeps drinks cold for 24 hours",
+      "quantity": 95,
+      "price": 799,
+      "lowStockThreshold": 25,
+      "supplier": "HomeEssentials Ltd",
+      "lastUpdated": "2023-04-09"
+    },
+    {
+      "id": "10",
+      "name": "Yoga Mat",
+      "category": "Sports",
+      "description": "Non-slip yoga mat with carrying strap",
+      "quantity": 42,
+      "price": 999,
+      "lowStockThreshold": 10,
+      "supplier": "FitLife Supplies",
+      "lastUpdated": "2023-04-14"
+    }
+  ]
+}
